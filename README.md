@@ -1,5 +1,9 @@
 
-![alt text](/tiba.jpeg)
+<p align="center">
+  <img src="tiba.jpeg" alt="TibaBox Logo" width="120">
+</p>
+
+
 # 🏥 TibaBox
 
 **TibaBox** is an **offline-first digital health and learning platform** that integrates **Bahmni**, **OpenMRS**, and **Internet-in-a-Box (IIAB)** to empower clinics, hospitals, and communities in low-connectivity regions.  
