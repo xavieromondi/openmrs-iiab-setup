@@ -1,10 +1,11 @@
+
+![alt text](/tiba.jpeg)
 # 🏥 TibaBox
 
 **TibaBox** is an **offline-first digital health and learning platform** that integrates **Bahmni**, **OpenMRS**, and **Internet-in-a-Box (IIAB)** to empower clinics, hospitals, and communities in low-connectivity regions.  
 It enables **patient data management**, **telemedicine**, and **offline access to medical educational content**, all from a single local server.
 
 ---
-
 ## 🚀 Overview
 
 TibaBox bridges the gap between healthcare delivery and health education in remote areas.
